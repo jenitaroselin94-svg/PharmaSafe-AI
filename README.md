@@ -51,6 +51,12 @@ Run the application:
 
 After running the application, upload a clear medicine label image and click the "Check Medicine Label" button to view the extracted information and safety warnings.
 
+## Live Demo
+https://pharmasafe-ai-agsmwlq3stmhyamxjakvmm.streamlit.app/
+<img width="992" height="901" alt="Screenshot 2026-10-06 081018" src="https://github.com/user-attachments/assets/539ff029-8748-4130-bf1d-a6c0f04f5f45" />
+<img width="970" height="782" alt="Screenshot 2026-10-06 081057" src="https://github.com/user-attachments/assets/ea68f7e5-9087-41a2-8485-5b2aec7bf1ed" />
+<img width="931" height="392" alt="Screenshot 2026-10-06 081111" src="https://github.com/user-attachments/assets/8f73d2ce-298d-422c-b684-7e6277b658d6" />
+
 ## Future Enhancements
 
 - Automatic expiry date calculation
